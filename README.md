@@ -21,8 +21,6 @@ A web-based application for managing bus passes for students and administrators,
 - Contact and enquiry management
 - Responsive UI with Bootstrap
 
-## Demo
-![Bus Pass System Screenshot](images/img5.png)
 
 ## Getting Started
 
